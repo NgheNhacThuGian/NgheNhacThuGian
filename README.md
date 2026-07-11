@@ -40,6 +40,6 @@
 
 ### Dành cho Người dùng (End User)
 1. Truy cập vào mục [Releases](https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases) của Repository.
-2. Tải file `app.apk` về điện thoại Android.
+2. Tải file `app.apk` về điện thoại Android. `app_windows.exe` về cho bản chạy Windows 10 trở lên.
 3. Cấp quyền "Cài đặt ứng dụng không rõ nguồn gốc" nếu được yêu cầu và tiến hành cài đặt.
 
