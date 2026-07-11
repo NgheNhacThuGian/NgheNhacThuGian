@@ -30,7 +30,7 @@
 
 *(Bạn hãy upload ảnh của app lên GitHub và thay thế các link dưới đây)*
 
-|<img src="[link_anh_doc.jpg](https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/doc.jpg)" width="250">|<img src="[link_anh_ngang.jpg](https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/ngang.jpg)" width="400">|<img src="[link_anh_khoa.jpg](https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/tb.jpg)" width="250">|
+|<img src="[link_anh_doc.jpg]([https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/doc.jpg](https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/doc.jpg))" width="250">|<img src="[link_anh_ngang.jpg]([https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/ngang.jpg](https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/ngang.jpg))" width="400">|<img src="[link_anh_khoa.jpg]([https://github.com/NgheNhacThuGian/NgheNhacThuGian/blob/main/tb.jpg](https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/tb.jpg))" width="250">|
 |:---:|:---:|:---:|
 | **Giao diện Dọc** | **Giao diện Ngang** | **Màn hình khóa** |
 
