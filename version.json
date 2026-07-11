@@ -1,5 +1,5 @@
 {
-  "latest_version_code": 1,
+  "latest_version_code": 2,
   "latest_version_name": "1.0",
   "release_notes": "🎉 Phiên bản phát hành chính thức 1.0:\n- Tích hợp điều khiển nhạc trên màn hình khóa (Lockscreen).\n- Hỗ trợ vuốt ngang để chuyển bài, chạm đúp để Dừng/Phát.\n- Tự động bỏ qua Room hỏng sau 3 lần thử kết nối lại.\n- Cập nhật OTA trực tiếp ngay trong ứng dụng.",
   "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/raw/refs/heads/main/app.apk"
