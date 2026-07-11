@@ -23,17 +23,12 @@
   * Auto-Skip: Tự động bỏ qua và chuyển sang Room tiếp theo nếu luồng phát bị chết.
 * 🚀 **Cập nhật OTA Trực tiếp (In-App Update):**
   * Không cần qua CH Play. App tự động tải file APK bản mới nhất dưới nền và gọi cửa sổ cài đặt cực kỳ mượt mà.
-
 ---
 
 ## 📸 Ảnh chụp màn hình (Screenshots)
-
-*(Bạn hãy upload ảnh của app lên GitHub và thay thế các link dưới đây)*
-
 |<img src="https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/doc.jpg" width="250">|<img src="https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/ngang.jpg" width="400">|<img src="https://raw.githubusercontent.com/NgheNhacThuGian/NgheNhacThuGian/main/tb.jpg" width="250">|
 |:---:|:---:|:---:|
 | **Giao diện Dọc** | **Giao diện Ngang** | **Màn hình khóa** |
-
 ---
 
 ## 🛠️ Cài đặt & Sử dụng
