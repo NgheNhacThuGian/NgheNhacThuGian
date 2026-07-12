@@ -34,7 +34,8 @@
 ## 🛠️ Cài đặt & Sử dụng
 
 ### Dành cho Người dùng (End User)
-1. Truy cập vào mục [Releases](https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases) của Repository.
-2. Tải file `app.apk` về điện thoại Android. `app_windows.exe` về cho bản chạy Windows 10 trở lên.
-3. Cấp quyền "Cài đặt ứng dụng không rõ nguồn gốc" nếu được yêu cầu và tiến hành cài đặt.
+📦 Hướng dẫn cập nhật:
+1.	Tải file NgheNhacThuGian_v1.3.apk ở mục Assets bên dưới và tiến hành cài đặt.
+2.	Lưu ý nhỏ: Để hệ điều hành Android xóa sạch bộ nhớ đệm (Cache) của giao diện cũ, nếu sau khi cài thấy lệch màu hoặc chưa hiện thanh thông báo, hãy vào Cài đặt điện thoại -> Ứng dụng -> Nghe Nhạc Thư Giãn -> Xóa dữ liệu (Clear Data), sau đó mở lại app là trải nghiệm sẽ hoàn hảo 100%!
+Chúc các bạn có những giây phút nghe nhạc thư giãn tuyệt vời! 🎧
 
