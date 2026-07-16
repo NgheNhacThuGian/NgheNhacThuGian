@@ -2,5 +2,5 @@
   "latest_version_code": 4,
   "latest_version_name": "1.4",
   "release_notes": "🚀 Phiên bản nâng cấp giao diện nghệ thuật v1.3:\n\n✨ Điểm nhấn giao diện:\n- Hộp thoại (Chọn Room, Hẹn giờ) thiết kế Premium: Nền đen mờ xuyên thấu, bo góc hạt sỏi, chữ trắng nổi bật.\n- Động cơ Theme thông minh: Tự động tính toán làm mờ ảnh nền ±30% và thay đổi màu chữ ngẫu nhiên (chống chói) cực gắt mỗi khi chuyển bài.\n- Tối ưu hóa tuyệt đối tỷ lệ giao diện ngang (Landscape) chuẩn 100% không góc chết.\n\n🛠 Cải thiện hiệu năng:\n- Khắc phục triệt để lỗi mất thanh điều khiển nhạc trên thông báo của Android 13/14.\n- Chống lỗi tự phát nhạc khi xoay màn hình.\n- Sửa lỗi tự động xoay màn hình.\n- Bắt lỗi link URL chặt chẽ hơn khi thêm Room mới.",
-  "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases/download/v1.3/NgheNhacThuGian_v1.3.apk"
+  "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases/download/v1.3/NgheNhacThuGian_v1.4.apk"
 }
